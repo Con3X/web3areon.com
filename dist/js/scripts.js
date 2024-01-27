@@ -1,8 +1,8 @@
 /*!
-* Start Bootstrap - New Age v6.0.7 (https://startbootstrap.com/theme/new-age)
+* Start Bootstrap - Website for Web3Areon.com based on startbootstrap-new-age v6.0.7 (https://startbootstrap.com/theme/new-age)
 * Copyright 2013-2023 Start Bootstrap
-* Copyright 2023-2024 ConX3
-* Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-new-age/blob/master/LICENSE)
+* Copyright 2023-2024 Con3X
+* Licensed under MIT (https://github.com/StartBootstrap/web3areon.com/blob/master/LICENSE)
 */
 //
 // Scripts
